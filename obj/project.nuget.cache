@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JEXeu+JuknCotu6CCH7k09xlCXAED6XTHjkF05de4TJFotsjRZedPHsAVgrmE5t3uS69NvThDKTwXjHuMYVGRA==",
+  "success": true,
+  "projectFilePath": "/var/www/aspnetcoreapp/aspnetcoreapp.csproj",
+  "expectedPackageFiles": [
+    "/home/carlomigueldy/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
